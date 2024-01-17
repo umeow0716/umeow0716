@@ -1,5 +1,6 @@
 <h1 align="center">
-  Hellow!!!٩(๑>◡<๑)۶ I'm umeow
+  Hellow!!!٩(๑>◡<๑)۶ <br/>
+  I'm umeow
   <img src="https://i.imgur.com/bCGoJPa.jpg" alt="umeow" style="height: 24px; width: 24px;">
 </h1>
 
