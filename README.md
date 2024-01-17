@@ -25,8 +25,8 @@
 
 <h3 align="left">Cowonnect with umeow:</h3>
 <p align="left">
-  <a href="https://discordapp.com/users/510683520520290315" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="umeow0716" /></a>
-  <a href="https://instagram.com/umeow0716" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="umeow0716" /></a>
+  <a href="https://discordapp.com/users/510683520520290315" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="umeow0716" /></a>&nbsp;
+  <a href="https://instagram.com/umeow0716" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="umeow0716" /></a>&nbsp;
   <a href="https://twitter.com/umeow0716" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="umeow0716" /></a>
 </p>
 
