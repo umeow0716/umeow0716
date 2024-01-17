@@ -1,7 +1,7 @@
 <h1 align="center">
   Hellow!!!٩(๑>◡<๑)۶ <br/>
   I'm umeow
-  <img src="https://i.imgur.com/bCGoJPa.jpg" alt="umeow" width="12" height="12" />
+  <img src="https://i.imgur.com/bCGoJPa.jpg" alt="umeow" height="12" />
 </h1>
 
 <h3 align="center">
