@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  <p>A pwassionate froooontewnd develowoper from Taiuwuan</p>
+  <p>A pwassionate develowoper from Taiuwuan</p>
   <p>Awnd Thiws iws a uwu fwee zone</p>
 </h3>
 
