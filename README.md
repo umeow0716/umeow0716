@@ -5,11 +5,12 @@
 </h1>
 
 <h3 align="center">
-  <font style="font-size: 64px;">Thiws iws a uwu fwee zone</font>
-  <a href="https://zh.wikipedia.org/zh-tw/UwU" target="_blank" rel="noreferrer">
-    <img src="https://i.imgur.com/Om2oF9F.jpg" alt="uwu" height="64" width="64" />
-  </a>
+  Thiws iws a uwu fwee zone
 </h3>
+
+<a href="https://zh.wikipedia.org/zh-tw/UwU" target="_blank" rel="noreferrer">
+  <img src="https://i.imgur.com/Om2oF9F.jpg" alt="uwu" height="128" width="128" />
+</a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umeow0716&show_icons=true&locale=en&layout=compact" alt="umeow0716" /></p>
 
