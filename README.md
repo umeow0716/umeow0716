@@ -44,32 +44,8 @@
 </p>
 
 <p align="left">
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://i.imgur.com/jrghwHB.png" alt="express" width="40" height="40"/>
-  </a>
-
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://i.imgur.com/RRThQ1m.png" alt="flask" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  </a>
-
-  <a href="https://gohugo.io/" target="_blank" rel="noreferrer">
-    <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img src="https://i.imgur.com/1vBGme3.png" alt="mariadb" width="40" height="40"/>
+  <a href="https://skillicons.dev/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=express,flask,nginx,figma,flutter,mysql" alt="express" width="40" height="40"/>
   </a>
 </p>
 
