@@ -45,13 +45,13 @@
 
 <p align="left">
   <a href="https://skillicons.dev/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=express,flask,nginx,figma,flutter,mysql" alt="express" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,java,go,php" alt="nodejs" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://skillicons.dev/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,java,go,php" alt="nodejs" />
+    <img src="https://skillicons.dev/icons?i=express,flask,nginx,figma,flutter,mysql" alt="express" />
   </a>
 </p>
 
