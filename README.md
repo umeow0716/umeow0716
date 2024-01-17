@@ -112,6 +112,6 @@
 
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=umeow0716&color=dc143c&style=for-the-badge" alt="umeow0716"
+    src="https://komarev.com/ghpvc/?username=umeow0716&color=ff69b4&style=for-the-badge" alt="umeow0716"
   />
 </p>
