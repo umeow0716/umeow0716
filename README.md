@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm umeow</h1>
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=umeow0716&label=Profile%20views&color=0e75b6&style=flat" alt="umeow0716"
-  />
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/umeow0716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umeow0716" height="30" width="40" /></a>
@@ -20,3 +14,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umeow0716&show_icons=true&locale=en" alt="umeow0716" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umeow0716&" alt="umeow0716" /></p>
+
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=umeow0716&label=Profile%20views&color=0e75b6&style=flat" alt="umeow0716"
+  />
+</p>
