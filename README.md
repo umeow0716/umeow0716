@@ -1,6 +1,6 @@
 <h1 align="center">
   Hellow!!!!!! I'm umeow
-  <img src="https://i.imgur.com/bCGoJPa.jpg" alt="umeow" style="height: 64px; width: 64px;">
+  <img src="https://i.imgur.com/bCGoJPa.jpg" alt="umeow" style="height: 24px; width: 24px;">
 </h1>
 
 <h3 align="center">Thiws iws a uwu fwee zone</h3>
