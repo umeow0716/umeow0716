@@ -19,8 +19,8 @@
 </a>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umeow0716&show_icons=true&locale=en&layout=compact" alt="umeow0716" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=umeow0716&show_icons=true&locale=en" alt="umeow0716" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umeow0716&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="umeow0716" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=umeow0716&show_icons=true&locale=en&theme=tokyonight" alt="umeow0716" />
 </p>
 
 <h3 align="left">Cowonnect with umeow:</h3>
