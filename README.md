@@ -89,7 +89,7 @@
   </a>
 
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
+    <img src="https://i.imgur.com/1vBGme3.png" alt="mariadb" width="40" height="40"/>
   </a>
 </p>
 
