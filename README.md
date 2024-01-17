@@ -5,7 +5,8 @@
 </h1>
 
 <h3 align="center">
-  Thiws iws a uwu fwee zone
+  <p>A pwassionate froooontewnd develowoper frowom Taiuwuan</p>
+  <p>Awnd Thiws iws a uwu fwee zone</p>
 </h3>
 
 <a href="https://zh.wikipedia.org/zh-tw/UwU" target="_blank" rel="noreferrer">
