@@ -95,7 +95,7 @@
 
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://i.imgur.com/GRP8Noy.png" alt="nodejs" width="40" height="40"/>
+    <img src="https://iconduck.com/vectors/vctrruvykdlj/media/svg/download" alt="nodejs" width="40" height="40"/>
   </a>
 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
