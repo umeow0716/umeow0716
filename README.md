@@ -1,13 +1,13 @@
 <h1 align="center">
   Hellow!!!٩(๑>◡<๑)۶ <br/>
   I'm umeow
-  <img src="https://i.imgur.com/bCGoJPa.jpg" alt="umeow" height="12" width="12" />
+  <img src="https://i.imgur.com/bCGoJPa.jpg" alt="umeow" height="32" width="32" />
 </h1>
 
 <h3 align="center">
   Thiws iws a uwu fwee zone
   <a href="https://zh.wikipedia.org/zh-tw/UwU" target="_blank" rel="noreferrer">
-    <img src="https://i.imgur.com/Om2oF9F.jpg" alt="uwu" height="12" width="12" />
+    <img src="https://i.imgur.com/Om2oF9F.jpg" alt="uwu" height="64" width="64" />
   </a>
 </h3>
 
