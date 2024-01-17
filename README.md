@@ -20,7 +20,7 @@
 
 <h3 align="left">Cowonnect with umeow:</h3>
 <p align="left">
-  <a href="https://discordapp.com/users/510683520520290315" target="_blank"><img align="center" src="https://i.imgur.com/i9B4zRG.png" alt="umeow0716" height="30" width="40" /></a>
+  <a href="https://discordapp.com/users/510683520520290315" target="_blank"><img align="center" src="https://i.imgur.com/i9B4zRG.png" alt="umeow0716" height="30" width="30" /></a>
   <a href="https://instagram.com/umeow0716" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umeow0716" height="30" width="40" /></a>
   <a href="https://twitter.com/umeow0716" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umeow0716" height="30" width="40" /></a>
 </p>
