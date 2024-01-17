@@ -39,7 +39,7 @@
 
 <p align="left"> 
   <a href="https://skillicons.dev/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="html5" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="html5" />
   </a>
 </p>
 
