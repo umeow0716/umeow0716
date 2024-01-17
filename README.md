@@ -8,8 +8,8 @@
 
 <h3 align="left">Connect with umeow:</h3>
 <p align="left">
-<a href="https://instagram.com/umeow0716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umeow0716" height="30" width="40" /></a>
-<a href="https://twitter.com/umeow0716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umeow0716" height="30" width="40" /></a>
+  <a href="https://instagram.com/umeow0716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umeow0716" height="30" width="40" /></a>
+  <a href="https://twitter.com/umeow0716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umeow0716" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languwuages and Towols:</h3>
