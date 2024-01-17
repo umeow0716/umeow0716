@@ -45,7 +45,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=express,flask,nginx,figma,flutter,mysql" alt="express" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=express,flask,nginx,figma,flutter,mysql" alt="express" />
   </a>
 </p>
 
