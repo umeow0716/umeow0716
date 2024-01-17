@@ -1,10 +1,15 @@
 <h1 align="center">
   Hellow!!!٩(๑>◡<๑)۶ <br/>
   I'm umeow
-  <img src="https://i.imgur.com/bCGoJPa.jpg" alt="umeow" style="height: 24px; width: 24px;">
+  <img src="https://i.imgur.com/bCGoJPa.jpg" alt="umeow" width="12" height="12" />
 </h1>
 
-<h3 align="center">Thiws iws a uwu fwee zone</h3>
+<h3 align="center">
+  Thiws iws a uwu fwee zone
+  <a href="https://zh.wikipedia.org/zh-tw/UwU" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Stylized_uwu_emoticon.svg/1200px-Stylized_uwu_emoticon.svg.png" alt="uwu" width="12" height="12" />
+  </a>
+</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umeow0716&show_icons=true&locale=en&layout=compact" alt="umeow0716" /></p>
 
