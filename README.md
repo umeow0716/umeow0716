@@ -51,7 +51,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,java,go,php" alt="nodejs" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,java,go,php" alt="nodejs" />
   </a>
 </p>
 
